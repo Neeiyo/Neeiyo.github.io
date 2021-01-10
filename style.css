@@ -1,0 +1,30 @@
+/* Header */
+
+.bg-nav {
+    background-color: rgb(93, 132, 151);
+}
+
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url(BC.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+/*Body*/
+
+.primaryBg {
+    background-color: rgb(93, 132, 151);
+}
+
+
+/* Footer */
+
+.bgp {
+    background-color: rgb(63, 95, 114);
+}
+
+.btn {}
